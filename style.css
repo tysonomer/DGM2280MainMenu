@@ -75,8 +75,8 @@ html,body {
 }
 
 .outer:hover {
-    background: linear-gradient(#285475, #48A3CB, #E2F4F8);
-    animation: rotate 1.5s linear infinite;
+    background: linear-gradient(to top,#285475, #48A3CB, #E2F4F8);
+    animation: rotate 2.5s linear infinite;
 }
 
 @keyframes rotate {
